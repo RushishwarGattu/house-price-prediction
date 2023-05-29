@@ -151,4 +151,9 @@ You now should have a standalone conda python environment and installed code in 
 # Frequently Asked Questions
 
 The FAQ for code templates during setting up, testing, development and adoption phases are available
-[here](https://tigeranalytics-code-templates.readthedocs-hosted.com/en/latest/faq.html)
+[here](https://tigeranalytics-code-templates.readthedocs-hosted.com/en/latest/faq.html) 
+
+
+# To run the scripts in production folder
+* Make sure to update the conig under the conf folder.
+* Use the command "python cli.py" to run all the production scripts.
